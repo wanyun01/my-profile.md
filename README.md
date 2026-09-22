@@ -7,3 +7,9 @@
 - **觀察力**
 
 *做好當下，成就未來*
+
+- **[YouTube](https://www.youtube.com)**
+
+- **![GitHub Logo](https://githubassets.com)**
+
+  
