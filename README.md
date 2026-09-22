@@ -10,7 +10,7 @@
 
 - **[YouTube](https://www.youtube.com)**
 
-- **![](https://githubassets.com)**
+- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDqMzZInOZI1z2la0Olw7-YmQYbQcfey5KaASKnUZSw&s=10)
 
   >「凡是過往，皆為序章。」（莎士比亞）
 
