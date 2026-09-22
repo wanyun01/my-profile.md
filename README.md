@@ -10,7 +10,7 @@
 
 - **[YouTube](https://www.youtube.com)**
 
-- **![GitHub Logo](https://githubassets.com)**
+- **![](https://githubassets.com)**
 
   >「凡是過往，皆為序章。」（莎士比亞）
 
